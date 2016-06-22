@@ -2,7 +2,10 @@
 This is my first project
 <?php
 class user{
-  publics function addpersona(){
+  public function addpersona(){
     return true;
   }
+  public function delepersona(){
+    return true;
+  } 
 }
